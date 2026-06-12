@@ -1,0 +1,27 @@
+# Ignore environment variables file
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.cache
+
+venv/
+env/
+*.venv
+
+logs/
+*.log
+*.out
+*.err
+*.bak
+*.log.*
+
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+*.swn
+*.pkl
