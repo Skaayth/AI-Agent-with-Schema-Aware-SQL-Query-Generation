@@ -38,8 +38,8 @@ A high-level view from UI → LLM → SQL execution:
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/Skaayth/schema-aware-ai-sql-agent.git
-cd schema-aware-ai-sql-agent
+git clone https://github.com/Skaayth/AI-Agent-with-Schema-Aware-SQL-Query-Generation.git
+cd AI-Agent-with-Schema-Aware-SQL-Query-Generation
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt

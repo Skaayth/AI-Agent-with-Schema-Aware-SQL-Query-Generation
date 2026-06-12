@@ -134,7 +134,7 @@ This modular architecture separates AI logic, user access, and data governance�
 ## 🗂 Project Structure
 
 ```
-schema-aware-ai-sql-agent/
+AI-Agent-with-Schema-Aware-SQL-Query-Generation/
 ├── backend/
 │   ├── agent/                 # AI agent logic and memory
 │   ├── api/                   # FastAPI entry point and route definitions
@@ -168,8 +168,8 @@ _Follow these steps to get the system running locally. You can connect to your o
 ### 2️⃣ Installation
 
 ```bash
-git clone https://github.com/skaayth/schema-aware-ai-sql-agent.git
-cd schema-aware-ai-sql-agent
+git clone https://github.com/Skaayth/AI-Agent-with-Schema-Aware-SQL-Query-Generation.git
+cd AI-Agent-with-Schema-Aware-SQL-Query-Generation
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
